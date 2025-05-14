@@ -101,12 +101,6 @@ flutter test
 
 ---
 
-## Auteur
-
-**Kepya** – [kepya](https://github.com/kepya)
-
----
-
 ## Licence
 
 Ce projet est sous licence MIT – libre d’usage, modification et redistribution.
